@@ -21,7 +21,7 @@ A Python project to explore, clean, and visualize global COVID-19 data.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/covid19-global-tracker.git
+   git clone https://github.com/oyugijr/covid19-global-tracker.git
    cd covid19-global-tracker
    ```
 
