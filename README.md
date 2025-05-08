@@ -39,20 +39,20 @@ A comprehensive data analysis pipeline tracking the global spread of COVID-19. T
 
 ### Setup
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/covid19-global-tracker.git
 cd covid19-global-tracker
 ```
 
-2. Install the required packages:
+### 2. Install the required packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the data processing pipeline:
+### 3. Run the data processing pipeline
 
 ```bash
 python scripts/data_processing.py
